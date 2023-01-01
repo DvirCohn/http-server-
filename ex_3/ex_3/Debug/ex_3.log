@@ -1,0 +1,3 @@
+﻿  Server.cpp
+C:\Users\dvirc\Desktop\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\מטלות\תכנותיות\ex_3\ex_3\Server.cpp(41,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ex_3.vcxproj -> C:\Users\dvirc\Desktop\לימודים\שנה ג\סמסטר א\תקשורת מחשבים\מטלות\תכנותיות\ex_3\Debug\ex_3.exe
